@@ -1,0 +1,489 @@
+{
+  "carrier": "Harbourline Mutual",
+  "insured": "Kestrel Logistics LLC",
+  "valuation_date": "2026-10-31",
+  "policies": [
+    {
+      "policy_number": "HM-WC-877572",
+      "coverage": "WC",
+      "period_start": "2023-07-01",
+      "period_end": "2024-07-01"
+    },
+    {
+      "policy_number": "HM-WC-388389",
+      "coverage": "WC",
+      "period_start": "2024-07-01",
+      "period_end": "2025-07-01"
+    },
+    {
+      "policy_number": "HM-WC-356787",
+      "coverage": "WC",
+      "period_start": "2025-07-01",
+      "period_end": "2026-07-01"
+    },
+    {
+      "policy_number": "HM-AUTO-334053",
+      "coverage": "AUTO",
+      "period_start": "2023-07-01",
+      "period_end": "2024-07-01"
+    },
+    {
+      "policy_number": "HM-AUTO-246316",
+      "coverage": "AUTO",
+      "period_start": "2024-07-01",
+      "period_end": "2025-07-01"
+    },
+    {
+      "policy_number": "HM-AUTO-872246",
+      "coverage": "AUTO",
+      "period_start": "2025-07-01",
+      "period_end": "2026-07-01"
+    },
+    {
+      "policy_number": "HM-GL-207473",
+      "coverage": "GL",
+      "period_start": "2023-07-01",
+      "period_end": "2024-07-01"
+    },
+    {
+      "policy_number": "HM-GL-809570",
+      "coverage": "GL",
+      "period_start": "2024-07-01",
+      "period_end": "2025-07-01"
+    },
+    {
+      "policy_number": "HM-GL-876646",
+      "coverage": "GL",
+      "period_start": "2025-07-01",
+      "period_end": "2026-07-01"
+    }
+  ],
+  "claims": [
+    {
+      "claim_number": "HM-WC-25-38890",
+      "policy_number": "HM-WC-356787",
+      "coverage": "WC",
+      "loss_date": "2025-10-06",
+      "claimant": "J. Alvarez",
+      "description": "Repetitive wrist strain",
+      "status": "Open",
+      "paid": 9500,
+      "reserve": 35000,
+      "recovered": 0
+    },
+    {
+      "claim_number": "HM-WC-26-72309",
+      "policy_number": "HM-WC-356787",
+      "coverage": "WC",
+      "loss_date": "2026-02-12",
+      "claimant": "J. Patel",
+      "description": "Repetitive wrist strain",
+      "status": "Closed",
+      "paid": 2000,
+      "reserve": 0,
+      "recovered": 0
+    },
+    {
+      "claim_number": "HM-WC-26-00425",
+      "policy_number": "HM-WC-356787",
+      "coverage": "WC",
+      "loss_date": "2026-02-18",
+      "claimant": "S. Svensson",
+      "description": "Repetitive wrist strain",
+      "status": "Closed",
+      "paid": 12250,
+      "reserve": 0,
+      "recovered": 0
+    },
+    {
+      "claim_number": "HM-WC-26-49735",
+      "policy_number": "HM-WC-356787",
+      "coverage": "WC",
+      "loss_date": "2026-02-22",
+      "claimant": "J. Doyle",
+      "description": "Lower back strain lifting pallet",
+      "status": "Closed",
+      "paid": 10250,
+      "reserve": 0,
+      "recovered": 0
+    },
+    {
+      "claim_number": "HM-WC-26-62296",
+      "policy_number": "HM-WC-356787",
+      "coverage": "WC",
+      "loss_date": "2026-06-03",
+      "claimant": "R. Okafor",
+      "description": "Shoulder sprain",
+      "status": "Open",
+      "paid": 14000,
+      "reserve": 39000,
+      "recovered": 0
+    },
+    {
+      "claim_number": "HM-WC-24-48434",
+      "policy_number": "HM-WC-388389",
+      "coverage": "WC",
+      "loss_date": "2024-11-03",
+      "claimant": "S. Brennan",
+      "description": "Laceration to hand",
+      "status": "Closed",
+      "paid": 8750,
+      "reserve": 0,
+      "recovered": 0
+    },
+    {
+      "claim_number": "HM-WC-25-72132",
+      "policy_number": "HM-WC-388389",
+      "coverage": "WC",
+      "loss_date": "2025-02-12",
+      "claimant": "R. Chu",
+      "description": "Shoulder sprain",
+      "status": "Closed",
+      "paid": 8750,
+      "reserve": 0,
+      "recovered": 0
+    },
+    {
+      "claim_number": "HM-WC-25-31195",
+      "policy_number": "HM-WC-388389",
+      "coverage": "WC",
+      "loss_date": "2025-03-21",
+      "claimant": "R. Reyes",
+      "description": "Shoulder sprain",
+      "status": "Closed",
+      "paid": 8750,
+      "reserve": 0,
+      "recovered": 300
+    },
+    {
+      "claim_number": "HM-WC-25-32271",
+      "policy_number": "HM-WC-388389",
+      "coverage": "WC",
+      "loss_date": "2025-04-18",
+      "claimant": "M. Novak",
+      "description": "Repetitive wrist strain",
+      "status": "Closed",
+      "paid": 0,
+      "reserve": 0,
+      "recovered": 0
+    },
+    {
+      "claim_number": "HM-AUTO-24-14029",
+      "policy_number": "HM-AUTO-246316",
+      "coverage": "AUTO",
+      "loss_date": "2024-08-29",
+      "claimant": "R. Okafor",
+      "description": "Hit parked vehicle",
+      "status": "Closed",
+      "paid": 4750,
+      "reserve": 0,
+      "recovered": 0
+    },
+    {
+      "claim_number": "HM-AUTO-24-32325",
+      "policy_number": "HM-AUTO-246316",
+      "coverage": "AUTO",
+      "loss_date": "2024-09-10",
+      "claimant": "T. Doyle",
+      "description": "Backing into bollard",
+      "status": "Closed",
+      "paid": 12000,
+      "reserve": 0,
+      "recovered": 700
+    },
+    {
+      "claim_number": "HM-AUTO-24-28221",
+      "policy_number": "HM-AUTO-246316",
+      "coverage": "AUTO",
+      "loss_date": "2024-09-18",
+      "claimant": "L. Brennan",
+      "description": "Side-swipe on highway",
+      "status": "Closed",
+      "paid": 0,
+      "reserve": 0,
+      "recovered": 0
+    },
+    {
+      "claim_number": "HM-AUTO-23-09305",
+      "policy_number": "HM-AUTO-334053",
+      "coverage": "AUTO",
+      "loss_date": "2023-07-04",
+      "claimant": "M. Alvarez",
+      "description": "Side-swipe on highway",
+      "status": "Closed",
+      "paid": 0,
+      "reserve": 0,
+      "recovered": 0
+    },
+    {
+      "claim_number": "HM-AUTO-23-12704",
+      "policy_number": "HM-AUTO-334053",
+      "coverage": "AUTO",
+      "loss_date": "2023-08-18",
+      "claimant": "M. Alvarez",
+      "description": "Windshield damage",
+      "status": "Closed",
+      "paid": 6750,
+      "reserve": 0,
+      "recovered": 0
+    },
+    {
+      "claim_number": "HM-AUTO-23-49009",
+      "policy_number": "HM-AUTO-334053",
+      "coverage": "AUTO",
+      "loss_date": "2023-09-17",
+      "claimant": "D. Alvarez",
+      "description": "Rear-ended at signal",
+      "status": "Closed",
+      "paid": 12500,
+      "reserve": 0,
+      "recovered": 0
+    },
+    {
+      "claim_number": "HM-AUTO-24-45830",
+      "policy_number": "HM-AUTO-334053",
+      "coverage": "AUTO",
+      "loss_date": "2024-02-21",
+      "claimant": "R. Novak",
+      "description": "Side-swipe on highway",
+      "status": "Closed",
+      "paid": 3750,
+      "reserve": 0,
+      "recovered": 0
+    },
+    {
+      "claim_number": "HM-AUTO-24-09116",
+      "policy_number": "HM-AUTO-334053",
+      "coverage": "AUTO",
+      "loss_date": "2024-06-25",
+      "claimant": "M. Novak",
+      "description": "Side-swipe on highway",
+      "status": "Closed",
+      "paid": 4750,
+      "reserve": 0,
+      "recovered": 0
+    },
+    {
+      "claim_number": "HM-AUTO-25-01220",
+      "policy_number": "HM-AUTO-872246",
+      "coverage": "AUTO",
+      "loss_date": "2025-08-07",
+      "claimant": "S. Chu",
+      "description": "Side-swipe on highway",
+      "status": "Closed",
+      "paid": 1750,
+      "reserve": 0,
+      "recovered": 0
+    },
+    {
+      "claim_number": "HM-AUTO-25-32591",
+      "policy_number": "HM-AUTO-872246",
+      "coverage": "AUTO",
+      "loss_date": "2025-08-25",
+      "claimant": "S. Reyes",
+      "description": "Backing into bollard",
+      "status": "Closed",
+      "paid": 2250,
+      "reserve": 0,
+      "recovered": 0
+    },
+    {
+      "claim_number": "HM-AUTO-25-31385",
+      "policy_number": "HM-AUTO-872246",
+      "coverage": "AUTO",
+      "loss_date": "2025-12-05",
+      "claimant": "M. Svensson",
+      "description": "Backing into bollard",
+      "status": "Open",
+      "paid": 9250,
+      "reserve": 5500,
+      "recovered": 200
+    },
+    {
+      "claim_number": "HM-AUTO-26-35093",
+      "policy_number": "HM-AUTO-872246",
+      "coverage": "AUTO",
+      "loss_date": "2026-01-22",
+      "claimant": "L. Reyes",
+      "description": "Backing into bollard",
+      "status": "Open",
+      "paid": 9250,
+      "reserve": 20500,
+      "recovered": 400
+    },
+    {
+      "claim_number": "HM-AUTO-26-67839",
+      "policy_number": "HM-AUTO-872246",
+      "coverage": "AUTO",
+      "loss_date": "2026-02-10",
+      "claimant": "J. Svensson",
+      "description": "Backing into bollard",
+      "status": "Closed",
+      "paid": 3750,
+      "reserve": 0,
+      "recovered": 0
+    },
+    {
+      "claim_number": "HM-AUTO-26-53264",
+      "policy_number": "HM-AUTO-872246",
+      "coverage": "AUTO",
+      "loss_date": "2026-04-13",
+      "claimant": "J. Chu",
+      "description": "Side-swipe on highway",
+      "status": "Open",
+      "paid": 4000,
+      "reserve": 10500,
+      "recovered": 300
+    },
+    {
+      "claim_number": "HM-AUTO-26-34671",
+      "policy_number": "HM-AUTO-872246",
+      "coverage": "AUTO",
+      "loss_date": "2026-05-06",
+      "claimant": "S. Patel",
+      "description": "Hit parked vehicle",
+      "status": "Open",
+      "paid": 8750,
+      "reserve": 8000,
+      "recovered": 0
+    },
+    {
+      "claim_number": "HM-GL-24-96345",
+      "policy_number": "HM-GL-207473",
+      "coverage": "GL",
+      "loss_date": "2024-06-07",
+      "claimant": "J. Reyes",
+      "description": "Property damage at client site",
+      "status": "Closed",
+      "paid": 11250,
+      "reserve": 0,
+      "recovered": 200
+    },
+    {
+      "claim_number": "HM-GL-24-06658",
+      "policy_number": "HM-GL-809570",
+      "coverage": "GL",
+      "loss_date": "2024-11-06",
+      "claimant": "T. Chu",
+      "description": "Product damage claim",
+      "status": "Closed",
+      "paid": 4500,
+      "reserve": 0,
+      "recovered": 0
+    },
+    {
+      "claim_number": "HM-GL-25-28016",
+      "policy_number": "HM-GL-809570",
+      "coverage": "GL",
+      "loss_date": "2025-03-04",
+      "claimant": "S. Novak",
+      "description": "Water damage to tenant unit",
+      "status": "Open",
+      "paid": 250,
+      "reserve": 25000,
+      "recovered": 250
+    },
+    {
+      "claim_number": "HM-GL-25-69615",
+      "policy_number": "HM-GL-809570",
+      "coverage": "GL",
+      "loss_date": "2025-03-15",
+      "claimant": "M. Doyle",
+      "description": "Water damage to tenant unit",
+      "status": "Closed",
+      "paid": 1500,
+      "reserve": 0,
+      "recovered": 0
+    },
+    {
+      "claim_number": "HM-GL-25-47819",
+      "policy_number": "HM-GL-809570",
+      "coverage": "GL",
+      "loss_date": "2025-05-22",
+      "claimant": "A. Svensson",
+      "description": "Property damage at client site",
+      "status": "Closed",
+      "paid": 10750,
+      "reserve": 0,
+      "recovered": 0
+    },
+    {
+      "claim_number": "HM-GL-25-77397",
+      "policy_number": "HM-GL-876646",
+      "coverage": "GL",
+      "loss_date": "2025-08-14",
+      "claimant": "R. Doyle",
+      "description": "Customer trip and fall",
+      "status": "Closed",
+      "paid": 0,
+      "reserve": 0,
+      "recovered": 0
+    },
+    {
+      "claim_number": "HM-GL-25-56333",
+      "policy_number": "HM-GL-876646",
+      "coverage": "GL",
+      "loss_date": "2025-09-14",
+      "claimant": "R. Doyle",
+      "description": "Customer trip and fall",
+      "status": "Closed",
+      "paid": 14500,
+      "reserve": 0,
+      "recovered": 0
+    },
+    {
+      "claim_number": "HM-GL-25-93850",
+      "policy_number": "HM-GL-876646",
+      "coverage": "GL",
+      "loss_date": "2025-10-10",
+      "claimant": "A. Novak",
+      "description": "Product damage claim",
+      "status": "Closed",
+      "paid": 9500,
+      "reserve": 0,
+      "recovered": 0
+    },
+    {
+      "claim_number": "HM-GL-25-72512",
+      "policy_number": "HM-GL-876646",
+      "coverage": "GL",
+      "loss_date": "2025-11-06",
+      "claimant": "M. Okafor",
+      "description": "Water damage to tenant unit",
+      "status": "Open",
+      "paid": 2000,
+      "reserve": 34500,
+      "recovered": 0
+    },
+    {
+      "claim_number": "HM-GL-25-34179",
+      "policy_number": "HM-GL-876646",
+      "coverage": "GL",
+      "loss_date": "2025-12-09",
+      "claimant": "A. Okafor",
+      "description": "Water damage to tenant unit",
+      "status": "Open",
+      "paid": 5250,
+      "reserve": 15500,
+      "recovered": 500
+    },
+    {
+      "claim_number": "HM-GL-26-11915",
+      "policy_number": "HM-GL-876646",
+      "coverage": "GL",
+      "loss_date": "2026-03-10",
+      "claimant": "L. Novak",
+      "description": "Water damage to tenant unit",
+      "status": "Open",
+      "paid": 2500,
+      "reserve": 10500,
+      "recovered": 0
+    }
+  ],
+  "totals": {
+    "claim_count": 35,
+    "paid": 219750,
+    "reserve": 204000,
+    "recovered": 2850
+  }
+}

@@ -1,0 +1,489 @@
+{
+  "carrier": "Northgate Specialty",
+  "insured": "Bluewater Bakeries Inc",
+  "valuation_date": "2026-10-31",
+  "policies": [
+    {
+      "policy_number": "NG-WC-514002",
+      "coverage": "WC",
+      "period_start": "2023-07-01",
+      "period_end": "2024-07-01"
+    },
+    {
+      "policy_number": "NG-WC-782554",
+      "coverage": "WC",
+      "period_start": "2024-07-01",
+      "period_end": "2025-07-01"
+    },
+    {
+      "policy_number": "NG-WC-150631",
+      "coverage": "WC",
+      "period_start": "2025-07-01",
+      "period_end": "2026-07-01"
+    },
+    {
+      "policy_number": "NG-AUTO-175954",
+      "coverage": "AUTO",
+      "period_start": "2023-07-01",
+      "period_end": "2024-07-01"
+    },
+    {
+      "policy_number": "NG-AUTO-961168",
+      "coverage": "AUTO",
+      "period_start": "2024-07-01",
+      "period_end": "2025-07-01"
+    },
+    {
+      "policy_number": "NG-AUTO-661913",
+      "coverage": "AUTO",
+      "period_start": "2025-07-01",
+      "period_end": "2026-07-01"
+    },
+    {
+      "policy_number": "NG-GL-198702",
+      "coverage": "GL",
+      "period_start": "2023-07-01",
+      "period_end": "2024-07-01"
+    },
+    {
+      "policy_number": "NG-GL-483452",
+      "coverage": "GL",
+      "period_start": "2024-07-01",
+      "period_end": "2025-07-01"
+    },
+    {
+      "policy_number": "NG-GL-711097",
+      "coverage": "GL",
+      "period_start": "2025-07-01",
+      "period_end": "2026-07-01"
+    }
+  ],
+  "claims": [
+    {
+      "claim_number": "NG-WC-25-44571",
+      "policy_number": "NG-WC-150631",
+      "coverage": "WC",
+      "loss_date": "2025-08-26",
+      "claimant": "A. Svensson",
+      "description": "Lower back strain lifting pallet",
+      "status": "Closed",
+      "paid": 0,
+      "reserve": 0,
+      "recovered": 0
+    },
+    {
+      "claim_number": "NG-WC-25-99061",
+      "policy_number": "NG-WC-150631",
+      "coverage": "WC",
+      "loss_date": "2025-11-16",
+      "claimant": "D. Patel",
+      "description": "Lower back strain lifting pallet",
+      "status": "Open",
+      "paid": 13750,
+      "reserve": 17000,
+      "recovered": 0
+    },
+    {
+      "claim_number": "NG-WC-25-54937",
+      "policy_number": "NG-WC-150631",
+      "coverage": "WC",
+      "loss_date": "2025-11-26",
+      "claimant": "R. Patel",
+      "description": "Lower back strain lifting pallet",
+      "status": "Open",
+      "paid": 9250,
+      "reserve": 20000,
+      "recovered": 0
+    },
+    {
+      "claim_number": "NG-WC-23-22589",
+      "policy_number": "NG-WC-514002",
+      "coverage": "WC",
+      "loss_date": "2023-09-15",
+      "claimant": "D. Brennan",
+      "description": "Repetitive wrist strain",
+      "status": "Closed",
+      "paid": 2000,
+      "reserve": 0,
+      "recovered": 0
+    },
+    {
+      "claim_number": "NG-WC-23-25074",
+      "policy_number": "NG-WC-514002",
+      "coverage": "WC",
+      "loss_date": "2023-11-05",
+      "claimant": "M. Reyes",
+      "description": "Slip on wet floor",
+      "status": "Closed",
+      "paid": 8250,
+      "reserve": 0,
+      "recovered": 0
+    },
+    {
+      "claim_number": "NG-WC-23-27889",
+      "policy_number": "NG-WC-514002",
+      "coverage": "WC",
+      "loss_date": "2023-11-06",
+      "claimant": "L. Chu",
+      "description": "Lower back strain lifting pallet",
+      "status": "Closed",
+      "paid": 9500,
+      "reserve": 0,
+      "recovered": 0
+    },
+    {
+      "claim_number": "NG-WC-24-28140",
+      "policy_number": "NG-WC-514002",
+      "coverage": "WC",
+      "loss_date": "2024-03-16",
+      "claimant": "L. Alvarez",
+      "description": "Repetitive wrist strain",
+      "status": "Closed",
+      "paid": 1250,
+      "reserve": 0,
+      "recovered": 0
+    },
+    {
+      "claim_number": "NG-WC-24-95834",
+      "policy_number": "NG-WC-782554",
+      "coverage": "WC",
+      "loss_date": "2024-08-01",
+      "claimant": "L. Patel",
+      "description": "Lower back strain lifting pallet",
+      "status": "Closed",
+      "paid": 11000,
+      "reserve": 0,
+      "recovered": 0
+    },
+    {
+      "claim_number": "NG-WC-24-63972",
+      "policy_number": "NG-WC-782554",
+      "coverage": "WC",
+      "loss_date": "2024-08-29",
+      "claimant": "M. Patel",
+      "description": "Slip on wet floor",
+      "status": "Closed",
+      "paid": 5000,
+      "reserve": 0,
+      "recovered": 0
+    },
+    {
+      "claim_number": "NG-WC-24-67100",
+      "policy_number": "NG-WC-782554",
+      "coverage": "WC",
+      "loss_date": "2024-08-30",
+      "claimant": "J. Brennan",
+      "description": "Repetitive wrist strain",
+      "status": "Closed",
+      "paid": 2500,
+      "reserve": 0,
+      "recovered": 800
+    },
+    {
+      "claim_number": "NG-WC-24-93863",
+      "policy_number": "NG-WC-782554",
+      "coverage": "WC",
+      "loss_date": "2024-09-18",
+      "claimant": "R. Brennan",
+      "description": "Shoulder sprain",
+      "status": "Closed",
+      "paid": 4250,
+      "reserve": 0,
+      "recovered": 300
+    },
+    {
+      "claim_number": "NG-WC-24-22282",
+      "policy_number": "NG-WC-782554",
+      "coverage": "WC",
+      "loss_date": "2024-09-20",
+      "claimant": "T. Chu",
+      "description": "Repetitive wrist strain",
+      "status": "Open",
+      "paid": 14500,
+      "reserve": 30000,
+      "recovered": 300
+    },
+    {
+      "claim_number": "NG-WC-24-82657",
+      "policy_number": "NG-WC-782554",
+      "coverage": "WC",
+      "loss_date": "2024-10-23",
+      "claimant": "R. Alvarez",
+      "description": "Repetitive wrist strain",
+      "status": "Closed",
+      "paid": 9250,
+      "reserve": 0,
+      "recovered": 0
+    },
+    {
+      "claim_number": "NG-WC-25-02553",
+      "policy_number": "NG-WC-782554",
+      "coverage": "WC",
+      "loss_date": "2025-01-04",
+      "claimant": "T. Svensson",
+      "description": "Repetitive wrist strain",
+      "status": "Closed",
+      "paid": 11500,
+      "reserve": 0,
+      "recovered": 100
+    },
+    {
+      "claim_number": "NG-WC-25-34224",
+      "policy_number": "NG-WC-782554",
+      "coverage": "WC",
+      "loss_date": "2025-06-22",
+      "claimant": "R. Doyle",
+      "description": "Laceration to hand",
+      "status": "Closed",
+      "paid": 5750,
+      "reserve": 0,
+      "recovered": 0
+    },
+    {
+      "claim_number": "NG-AUTO-23-26787",
+      "policy_number": "NG-AUTO-175954",
+      "coverage": "AUTO",
+      "loss_date": "2023-12-20",
+      "claimant": "T. Brennan",
+      "description": "Rear-ended at signal",
+      "status": "Closed",
+      "paid": 10000,
+      "reserve": 0,
+      "recovered": 100
+    },
+    {
+      "claim_number": "NG-AUTO-25-91133",
+      "policy_number": "NG-AUTO-661913",
+      "coverage": "AUTO",
+      "loss_date": "2025-12-22",
+      "claimant": "M. Okafor",
+      "description": "Windshield damage",
+      "status": "Closed",
+      "paid": 9500,
+      "reserve": 0,
+      "recovered": 0
+    },
+    {
+      "claim_number": "NG-AUTO-26-94781",
+      "policy_number": "NG-AUTO-661913",
+      "coverage": "AUTO",
+      "loss_date": "2026-02-14",
+      "claimant": "M. Doyle",
+      "description": "Windshield damage",
+      "status": "Closed",
+      "paid": 6000,
+      "reserve": 0,
+      "recovered": 0
+    },
+    {
+      "claim_number": "NG-AUTO-26-86831",
+      "policy_number": "NG-AUTO-661913",
+      "coverage": "AUTO",
+      "loss_date": "2026-02-20",
+      "claimant": "J. Reyes",
+      "description": "Backing into bollard",
+      "status": "Closed",
+      "paid": 14250,
+      "reserve": 0,
+      "recovered": 0
+    },
+    {
+      "claim_number": "NG-AUTO-26-03342",
+      "policy_number": "NG-AUTO-661913",
+      "coverage": "AUTO",
+      "loss_date": "2026-05-11",
+      "claimant": "T. Patel",
+      "description": "Windshield damage",
+      "status": "Open",
+      "paid": 10000,
+      "reserve": 24500,
+      "recovered": 0
+    },
+    {
+      "claim_number": "NG-AUTO-24-19094",
+      "policy_number": "NG-AUTO-961168",
+      "coverage": "AUTO",
+      "loss_date": "2024-07-03",
+      "claimant": "J. Reyes",
+      "description": "Hit parked vehicle",
+      "status": "Closed",
+      "paid": 9250,
+      "reserve": 0,
+      "recovered": 0
+    },
+    {
+      "claim_number": "NG-AUTO-24-23562",
+      "policy_number": "NG-AUTO-961168",
+      "coverage": "AUTO",
+      "loss_date": "2024-11-05",
+      "claimant": "T. Reyes",
+      "description": "Side-swipe on highway",
+      "status": "Closed",
+      "paid": 9250,
+      "reserve": 0,
+      "recovered": 500
+    },
+    {
+      "claim_number": "NG-AUTO-25-08426",
+      "policy_number": "NG-AUTO-961168",
+      "coverage": "AUTO",
+      "loss_date": "2025-03-20",
+      "claimant": "S. Okafor",
+      "description": "Rear-ended at signal",
+      "status": "Closed",
+      "paid": 3750,
+      "reserve": 0,
+      "recovered": 0
+    },
+    {
+      "claim_number": "NG-GL-23-26203",
+      "policy_number": "NG-GL-198702",
+      "coverage": "GL",
+      "loss_date": "2023-10-25",
+      "claimant": "D. Okafor",
+      "description": "Property damage at client site",
+      "status": "Closed",
+      "paid": 500,
+      "reserve": 0,
+      "recovered": 0
+    },
+    {
+      "claim_number": "NG-GL-23-19781",
+      "policy_number": "NG-GL-198702",
+      "coverage": "GL",
+      "loss_date": "2023-10-27",
+      "claimant": "D. Chu",
+      "description": "Product damage claim",
+      "status": "Closed",
+      "paid": 10750,
+      "reserve": 0,
+      "recovered": 0
+    },
+    {
+      "claim_number": "NG-GL-24-52294",
+      "policy_number": "NG-GL-198702",
+      "coverage": "GL",
+      "loss_date": "2024-01-20",
+      "claimant": "M. Doyle",
+      "description": "Water damage to tenant unit",
+      "status": "Closed",
+      "paid": 6500,
+      "reserve": 0,
+      "recovered": 0
+    },
+    {
+      "claim_number": "NG-GL-24-98322",
+      "policy_number": "NG-GL-198702",
+      "coverage": "GL",
+      "loss_date": "2024-06-29",
+      "claimant": "L. Reyes",
+      "description": "Water damage to tenant unit",
+      "status": "Closed",
+      "paid": 7000,
+      "reserve": 0,
+      "recovered": 0
+    },
+    {
+      "claim_number": "NG-GL-24-21805",
+      "policy_number": "NG-GL-483452",
+      "coverage": "GL",
+      "loss_date": "2024-08-11",
+      "claimant": "S. Novak",
+      "description": "Product damage claim",
+      "status": "Closed",
+      "paid": 14250,
+      "reserve": 0,
+      "recovered": 300
+    },
+    {
+      "claim_number": "NG-GL-24-54609",
+      "policy_number": "NG-GL-483452",
+      "coverage": "GL",
+      "loss_date": "2024-09-09",
+      "claimant": "M. Doyle",
+      "description": "Product damage claim",
+      "status": "Closed",
+      "paid": 1250,
+      "reserve": 0,
+      "recovered": 400
+    },
+    {
+      "claim_number": "NG-GL-24-87534",
+      "policy_number": "NG-GL-483452",
+      "coverage": "GL",
+      "loss_date": "2024-09-22",
+      "claimant": "R. Patel",
+      "description": "Product damage claim",
+      "status": "Open",
+      "paid": 8250,
+      "reserve": 26000,
+      "recovered": 600
+    },
+    {
+      "claim_number": "NG-GL-24-22026",
+      "policy_number": "NG-GL-483452",
+      "coverage": "GL",
+      "loss_date": "2024-12-29",
+      "claimant": "R. Novak",
+      "description": "Water damage to tenant unit",
+      "status": "Closed",
+      "paid": 3500,
+      "reserve": 0,
+      "recovered": 0
+    },
+    {
+      "claim_number": "NG-GL-25-21160",
+      "policy_number": "NG-GL-483452",
+      "coverage": "GL",
+      "loss_date": "2025-06-20",
+      "claimant": "J. Svensson",
+      "description": "Product damage claim",
+      "status": "Closed",
+      "paid": 8500,
+      "reserve": 0,
+      "recovered": 0
+    },
+    {
+      "claim_number": "NG-GL-25-02804",
+      "policy_number": "NG-GL-711097",
+      "coverage": "GL",
+      "loss_date": "2025-09-06",
+      "claimant": "L. Doyle",
+      "description": "Property damage at client site",
+      "status": "Closed",
+      "paid": 10500,
+      "reserve": 0,
+      "recovered": 0
+    },
+    {
+      "claim_number": "NG-GL-26-67130",
+      "policy_number": "NG-GL-711097",
+      "coverage": "GL",
+      "loss_date": "2026-05-07",
+      "claimant": "S. Svensson",
+      "description": "Property damage at client site",
+      "status": "Open",
+      "paid": 7250,
+      "reserve": 33000,
+      "recovered": 0
+    },
+    {
+      "claim_number": "NG-GL-26-08229",
+      "policy_number": "NG-GL-711097",
+      "coverage": "GL",
+      "loss_date": "2026-06-30",
+      "claimant": "D. Reyes",
+      "description": "Product damage claim",
+      "status": "Open",
+      "paid": 8000,
+      "reserve": 34500,
+      "recovered": 0
+    }
+  ],
+  "totals": {
+    "claim_count": 35,
+    "paid": 266000,
+    "reserve": 185000,
+    "recovered": 3400
+  }
+}

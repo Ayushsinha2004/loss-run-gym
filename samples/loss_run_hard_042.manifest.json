@@ -1,0 +1,21 @@
+{
+  "pages": 4,
+  "messiness": {
+    "header_policy": true,
+    "subtotal_rows": true,
+    "ditto_blanks": true,
+    "split_tables": true,
+    "page_break_repeat": true,
+    "prefix_typos": true
+  },
+  "traps": {
+    "typo_claims": [
+      {
+        "printed": "HS-GL-25-34179",
+        "correct": "HM-GL-25-34179"
+      }
+    ],
+    "subtotal_rows": 0,
+    "repeated_rows": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "pages": 3,
+  "messiness": {
+    "header_policy": true,
+    "subtotal_rows": true,
+    "ditto_blanks": true,
+    "split_tables": false,
+    "page_break_repeat": true,
+    "prefix_typos": true
+  },
+  "traps": {
+    "typo_claims": [
+      {
+        "printed": "NT-WC-25-99061",
+        "correct": "NG-WC-25-99061"
+      }
+    ],
+    "subtotal_rows": 9,
+    "repeated_rows": 0
+  }
+}
